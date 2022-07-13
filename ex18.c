@@ -50,7 +50,7 @@ int *bubble_sort(int *numbers, int count, compare_cb cmp)
 
 int sorted_order(int a, int b)
 {
-    return a -b;
+    return a - b;
 }
 
 int reverse_order(int a, int b)
